@@ -1,1 +1,1 @@
-Testing xcode's features.
+Testing xcode's C++ features
